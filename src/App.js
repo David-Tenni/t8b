@@ -7,11 +7,12 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Wowsers
+          Wowsersssss
         </p>
-        
-      </header>
+      
       <button onclick="myFortune()">Fortune</button>
+      
+      </header>
     </div>
   );
 }
