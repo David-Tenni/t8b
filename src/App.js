@@ -11,6 +11,7 @@ function App() {
         </p>
         
       </header>
+      <button onclick="myFortune()">Fortune</button>
     </div>
   );
 }
